@@ -39,6 +39,3 @@ Created a bash script that takes in a query word, bulk-loads the index, and outp
 
 ## Part 3 - Extension
   We attempted the website extension to display queries to the user.
-
-
-# P.S. Thank you for the kindness and teachings, Professor Salloum and Ms. Chen! This project was a struggle, but it was worth the lessons learned. --Nish :)
