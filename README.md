@@ -4,11 +4,11 @@
 Spring 2021  
 Team member 1 - Bryant Chang  
 Team member 2 - Nish Patel
-
+  
 ### Collaboration Details
-# Bryant created the foundational crawler code.
-# Nish added features to the crawler to extract the html code into a data.json file. He made the scripts to run the crawler and indexer.
-
+Bryant created the foundational crawler code.  
+Nish added features to the crawler to extract the html code into a data.json file. He made the scripts to run the crawler and indexer.
+  
 ### Part 1 - Crawler
 #### --Overview--
 ##	Architecture:
