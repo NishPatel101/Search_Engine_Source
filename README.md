@@ -1,8 +1,8 @@
 # CS172 - Final Project (IR System)
 
 ## Member Information
-Spring 2021
-Team member 1 - Bryant Chang
+Spring 2021  
+Team member 1 - Bryant Chang  
 Team member 2 - Nish Patel
 
 ### Collaboration Details
