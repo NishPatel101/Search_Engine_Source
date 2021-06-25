@@ -1,1 +1,4 @@
 https://www.uci.edu
+https://www.ucr.edu
+https://web.mit.edu
+https://www.stanford.edu
