@@ -26,16 +26,16 @@ For URL handling, the crawler uses BeautifulSoup objects.
 ### --Limitations--
 The crawler does not perfectly handle duplicates, so some previously visited website links that are not normalized are left undetected.  
 ### --Instructions--
-Run code: ./crawler.py <seedUrl file> <number of pages to crawl>  
-  Since we use Windows Terminal, we ran with "py ./crawler seedURL.txt 590"  
+Run code: `./crawler.py <seedUrl file> <number of pages to crawl>`  
+  Since we use Windows Terminal, we ran with "`py ./crawler seedURL.txt 590`"  
   Because the crawler is mainly used for extracting the information to a data.json file, we just used a python script.  
   After the data.json file is created, we use that for the IR.  
 
 ## Part 2 - Indexer
 ### -- Instructions--
 Created a bash script that takes in a query word, bulk-loads the index, and outputs the query results to an output file specified by the user.  
-  Run code: ./index.sh <query-word> <output file name>  
-  Since we use Windows, we ran with "bash index.sh uci output.txt"  
+  Run code: `./index.sh <query-word> <output file name>`  
+  Since we use Windows, we ran with "`bash index.sh uci output.txt`"  
 
 ## Part 3 - Extension
   We attempted the website extension to display queries to the user.
